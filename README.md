@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://skysoft.krd/article](https://skysoft.krd/article)
 
-- 💬 Ask me about **HTML5,CSS3,bootstrap5,PHP,Laravel,MySQLNGINX**
+- 💬 Ask me about **HTML5,CSS3,bootstrap5,PHP,Laravel,MySQL,NGINX**
 
 - 📫 How to reach me **mhamad.00192801@gmail.com**
 
